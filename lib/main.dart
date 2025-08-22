@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           centerTitle: true,
-          title: Text('Abdelrahman'),
+          title: Text('Abdelrahman Khaled'),
         ),
       ),
     );
