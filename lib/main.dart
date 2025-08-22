@@ -15,6 +15,9 @@ class MyApp extends StatelessWidget {
           centerTitle: true,
           title: Text('Abdelrahman Khaled Ahmed'),
         ),
+        body: Center(
+          child: Text('shimaa edit'),
+        ),
       ),
     );
   }
