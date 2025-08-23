@@ -15,8 +15,14 @@ class MyApp extends StatelessWidget {
           centerTitle: true,
           title: Text('Abdelrahman Khaled Ahmed'),
         ),
-        body: Center(
-          child: Text('shimaa edit'),
+        body: Column(
+          children: [
+            Center(
+              child: Text('shimaa! edit'),
+            ),
+            Text('Abdelrahman') ,
+            Text('Ali'),
+          ],
         ),
       ),
     );
