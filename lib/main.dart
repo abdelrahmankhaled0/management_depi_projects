@@ -20,8 +20,7 @@ class MyApp extends StatelessWidget {
             Center(
               child: Text('shimaa! edit'),
             ),
-            Text('Abdelrahman') ,
-            Text('Ali'),
+            Container(),
           ],
         ),
       ),
